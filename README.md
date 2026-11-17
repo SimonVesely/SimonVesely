@@ -1,3 +1,6 @@
+<a href="https://github.com/SimonVesely/cli-net-comm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimonVesely/cli-net-comm/master/relay/assets/logo-dark.svg"><img align="right" height="124" hspace="10" alt="cli-net-comm" src="https://raw.githubusercontent.com/SimonVesely/cli-net-comm/master/relay/assets/logo-light.svg"></picture></a>
+<a href="https://github.com/SimonVesely/bachelors_thesis/tree/master/ftpeek"><img align="right" height="124" hspace="10" alt="FTPeek" src="https://raw.githubusercontent.com/SimonVesely/bachelors_thesis/master/ftpeek/assets/icon/ftpeek.svg"></a>
+
 ### Simon Veselý
 
 **Rust Developer** | Telecommunications & Networking
