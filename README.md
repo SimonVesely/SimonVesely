@@ -28,14 +28,14 @@
   <details>
     <summary>Preview</summary>
     <br>
-    <img src="assets/ftpeek.gif" width="600" alt="FTPeek preview">
+    <img src="assets/ftpeek.gif" width="900" alt="FTPeek preview">
   </details>
 
-- **[CLI Network Communicator](https://github.com/SimonVesely/cli-net-comm)** — Terminal UI (TUI) tool for encrypted messaging over LAN and the internet, built in Rust.
+- **[CLI Network Communicator](https://github.com/SimonVesely/cli-net-comm)** — TUI tool for encrypted messaging over LAN and the internet, built in Rust.
   <details>
     <summary>Preview</summary>
     <br>
-    <img src="assets/cli-net-comm.png" width="600" alt="CLI Network Communicator preview">
+    <img src="assets/cli-net-comm.png" width="900" alt="CLI Network Communicator preview">
   </details>
 
 ### Deployed
@@ -44,5 +44,5 @@
   <details>
     <summary>Preview</summary>
     <br>
-    <img src="oven_monitor.png" width="600" alt="Oven Monitor preview">
+    <img src="assets/oven_monitor.png" width="900" alt="Oven Monitor preview">
   </details>
